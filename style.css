@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    min-width: 350px;
+}
+
+input{
+    box-sizing: border-box;
+    width: 100%;
+    border: 2px solid #db005f;
+    padding: 12px;
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+
+button{
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    background: #db005f;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+ul{
+    list-style-type:none;
+    padding-left: 10px;
+}
+
+li{
+    margin-bottom: 5px;
+}
+
+a{
+    color: #db005f;
+}
