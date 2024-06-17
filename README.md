@@ -9,7 +9,7 @@ Leads Tracker is a simple and efficient Chrome extension built with JavaScript. 
 - **Save Input Lead:** Manually input a lead and save it by pressing the "Save Input" button.
 - **Save Tab Lead:** Save the current tab's link by pressing the "Save Tab" button.
 - **View Leads:** Access and visit the saved leads from the record.
-- **Clear Leads:** Clear the entire list of saved leads with a single click.
+- **Clear Leads:** Clear the entire list of saved leads with a double-click on "Delete All" to prevent unintentional deletion.
 
 ## Installation and Setup
 
@@ -18,6 +18,7 @@ To install the Leads Tracker Chrome extension locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/jaiswalism/leads-tracker-extension.git
+
 
 2. Navigate to the project directory:
     ```bash
@@ -47,7 +48,7 @@ To install the Leads Tracker Chrome extension locally, follow these steps:
 
 4. Clear Leads:
     - Open the Leads Tracker extension.
-    - Press the "Clear" button to delete all saved leads from the record.
+    - Double-click the "Delete All" button to delete all saved leads from the record, preventing unintentional deletion.
 
 ## Contributing
 Feel free to fork this project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.

@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    min-width: 350px;
+    min-width: 400px;
 }
 
 input{
@@ -15,12 +15,17 @@ input{
 }
 
 button{
-    border: none;
+    border: 1px solid #db005f;
     padding: 10px 20px;
     color: white;
     background: #db005f;
     font-weight: bold;
     cursor: pointer;
+}
+
+#delete-btn{
+    color: #db005f;
+    background-color: white;
 }
 
 ul{
